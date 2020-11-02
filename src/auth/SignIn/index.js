@@ -42,7 +42,6 @@ export default function SignInScreen() {
                         <Text style={styles.signUp} >Sign Up</Text>
                     </TouchableOpacity>
                 </View>
-                <Text>Commit first</Text>
             </ScrollView>
         </SafeAreaView>
     );
